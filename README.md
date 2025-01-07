@@ -18,7 +18,7 @@ Bu proje, Python programlama dili kullanılarak yapılmış basit bir oyun uygul
 Projeyi bilgisayarınıza indirin veya Git ile klonlayın:
 
 ```
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/OzanKarakocek/YakalaBakalim.git
 ```
 
 Gerekli kütüphaneleri yükleyin:
