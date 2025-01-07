@@ -32,5 +32,3 @@ Oyunu başlatmak için aşağıdaki komutu çalıştırın:
 ```
 python main.py
 ```
-
-Ekran Görüntüleri
